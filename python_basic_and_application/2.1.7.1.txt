@@ -1,0 +1,9 @@
+3
+a : c
+b : h d u
+c : e
+4
+a
+b
+e
+c

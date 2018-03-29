@@ -1,0 +1,59 @@
+4
+A
+B : A
+C : A
+D : B C
+
+6
+A A
+B B
+A B
+B D
+C D
+D A
+
+Yes
+Yes
+Yes
+Yes
+Yes
+Yes
+No
+No
+No
+No
+Yes
+No
+No
+Yes
+No
+Yes
+Yes
+Yes
+No
+Yes
+No
+No
+Yes
+Yes
+No
+No
+No
+Yes
+Yes
+No
+Yes
+No
+No
+No
+Yes
+Yes
+Yes
+No
+
+{'classE': ['classD', 'classF', 'classK', 'classL'], 'classH': ['classL'],
+'classK': ['classH', 'classL'], 'classG': ['classF'],
+'classC': ['classE', 'classD', 'classH', 'classK', 'classL'],
+'classB': ['classC', 'classE', 'classG', 'classH', 'classK', 'classL'],
+'classA': ['classB', 'classC', 'classD', 'classG', 'classH'], 'classF': ['classK'],
+'classD': ['classG', 'classH'], 'classL': []}
